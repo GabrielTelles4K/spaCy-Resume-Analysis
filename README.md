@@ -15,7 +15,7 @@ This project uses spaCy and other NLP tools to analyze and extract skills from r
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/spaCy-Resume-Analysis.git
+    git clone https://github.com/GabrielTelles4K/spaCy-Resume-Analysis.git
     cd spaCy-Resume-Analysis
     ```
 2. Create a virtual environment:
@@ -86,7 +86,7 @@ Este projeto utiliza spaCy e outras ferramentas de PLN para analisar e extrair h
 ## Instalação
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seuusuario/spaCy-Resume-Analysis.git
+    git clone https://github.com/GabrielTelles4K/spaCy-Resume-Analysis.git
     cd spaCy-Resume-Analysis
     ```
 2. Crie um ambiente virtual:
