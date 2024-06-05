@@ -1,5 +1,3 @@
-### README.md para o Projeto spaCy-Resume-Analysis
-
 #### English Version
 
 # spaCy Resume Analysis
